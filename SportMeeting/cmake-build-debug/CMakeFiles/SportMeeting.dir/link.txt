@@ -1,0 +1,3 @@
+C:\Users\ZLM75\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\SportMeeting.dir/objects.a
+C:\QT\QT5\Tools\mingw730_64\bin\ar.exe cr CMakeFiles\SportMeeting.dir/objects.a @CMakeFiles\SportMeeting.dir\objects1.rsp
+C:\QT\QT5\Tools\mingw730_64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\SportMeeting.dir/objects.a -Wl,--no-whole-archive -o SportMeeting.exe -Wl,--out-implib,libSportMeeting.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SportMeeting.dir\linklibs.rsp
